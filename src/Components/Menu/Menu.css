@@ -1,0 +1,12 @@
+.nav-item{
+    display: flex;
+    justify-content: center;
+}
+
+.active {
+    border-bottom: 2px solid white ;
+}
+
+#nav{
+    background-color: #8A2BE2;
+}
